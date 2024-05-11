@@ -3,7 +3,7 @@
 # Pro-Elec II
 # Professor Jerry Esperanza
 
-# TableauDashboarding
+# TableauDashboard
 1. Download and install Tableau Public Desktop.
 2. Download Awesome Chocolates dataset.
 3. Open Tableau Public Desktop.
